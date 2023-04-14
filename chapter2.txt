@@ -1,0 +1,1 @@
+JavaScript was initially created as a browser-only language, but it is now used in many other environments as well.
